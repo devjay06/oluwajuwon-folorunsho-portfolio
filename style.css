@@ -216,8 +216,8 @@
             margin: 60px;
         }
         .intro img {
-            width: 40%;
-            object-fit: cover;
+            width: 50%;
+            object-fit: contain;
             height: 450px;
             border-radius: 50px;
         }
